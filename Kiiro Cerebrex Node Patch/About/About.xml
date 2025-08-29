@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+    <name>Kiiro Cerebrex Node Patch</name>
+<description>This mod allows Kiiros to wear the Cerebrex Node item obtained in the Odyssey ending</description>
+    <author>Eliza513</author>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <packageId>Eliza513.KiiroCerebrexNodePatch</packageId>
+	
+	<modDependencies>
+		<li>
+			<packageId>Ancot.KiiroRace</packageId>
+			<displayName>Kiiro Race</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2988200143</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>Ludeon.Rimworld.Odyssey</packageId>
+			<displayName>Odyssey</displayName>
+		</li>
+	</modDependencies>
+	
+	<loadAfter>
+		<li>Ancot.KiiroRace</li>
+	</loadAfter>
+	
+</ModMetaData>
