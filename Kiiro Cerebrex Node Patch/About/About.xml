@@ -16,6 +16,10 @@
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2988200143</steamWorkshopUrl>
 		</li>
 		<li>
+			<packageId>Ludeon.Rimworld.Biotech</packageId>
+			<displayName>Biotech</displayName>
+		</li>
+		<li>
 			<packageId>Ludeon.Rimworld.Odyssey</packageId>
 			<displayName>Odyssey</displayName>
 		</li>
